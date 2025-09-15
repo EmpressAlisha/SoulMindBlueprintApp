@@ -1,5 +1,16 @@
 {
+  "name": "soulmind-blueprint-backend",
+  "version": "1.0.0",
+  "description": "Backend API for SoulMind Blueprint App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "keywords": ["soulmind", "blueprint", "api", "express"],
+  "author": "Empress Alisha",
+  "license": "MIT"
 }
